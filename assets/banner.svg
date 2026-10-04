@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Neetish Tewari, Builder PM">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="14" fill="url(#g)"/>
+  <text x="450" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Neetish Tewari</text>
+  <text x="450" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#dbeafe">Builder PM  |  B2B SaaS and AI-native products</text>
+</svg>
