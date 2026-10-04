@@ -36,20 +36,12 @@ I also keep a few machine learning notebooks on fraud detection: [InvoiceFraud](
 
 ## About me
 
-- 💼 Senior Product Manager at **Nagarro**, 17 years in enterprise B2B products
-- 🏦 Worked with partners such as Citi and Visa
-- 🌏 Shipped for markets in the UK, Singapore and the UAE
-- ✍️ I write about AI and product on [LinkedIn](https://linkedin.com/in/neetish/) and [my website](https://neetishtewari.co)
+- Senior Product Manager at **Nagarro**, 17 years in enterprise B2B products
+- Worked with partners such as Citi and Visa
+- Shipped for markets in the UK, Singapore and the UAE
+- I write about AI and Product on [LinkedIn](https://linkedin.com/in/neetish/) and [my website](https://neetishtewari.co)
 
-## Tools I use
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Gemini](https://img.shields.io/badge/Gemini-8e75b2?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-d97757?style=flat-square&logo=anthropic&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ## Get in touch
 
